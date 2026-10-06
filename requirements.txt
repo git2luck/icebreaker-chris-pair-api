@@ -1,0 +1,10 @@
+# Icebreaker 345 Pro - Unified Python Backend
+# Production: gunicorn api:app
+
+flask==3.0.0
+gunicorn==21.2.0
+flask-cors==4.0.0
+apscheduler==3.10.4
+requests==2.31.0
+pyjwt[crypto]==2.8.0
+python-dotenv==1.0.0
